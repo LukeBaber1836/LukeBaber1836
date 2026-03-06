@@ -1,6 +1,6 @@
 # Hi, I'm Luke Baber 👋
 
-I'm a **software engineer** and **Technical Sales Engineer at IBM** with a passion for building full-stack web applications and solving complex engineering problems. I hold a B.S. in Mechatronics Engineering from Texas A&M University and have hands-on experience across a diverse set of technologies — from cloud infrastructure to embedded systems.
+I'm a **Software Engineer** with a passion for building full-stack web applications and solving complex engineering problems. I hold a B.S. in Mechatronics Engineering from Texas A&M University and have hands-on experience across a diverse set of technologies — from cloud infrastructure to embedded systems.
 
 ---
 
@@ -57,7 +57,7 @@ Built from the ground up, Cloud Slicer generates real-time manufacturing quotes 
 ## 📫 Get in Touch
 
 - 📧 [luke.baber1@gmail.com](mailto:luke.baber1@gmail.com)
-- 🌐 [Portfolio Site](https://github.com/LukeBaber1836/portfolio-site)
-- 💼 [LinkedIn](https://www.linkedin.com/in/lukebaber) *(update with your link)*
+- 🌐 [Website](https://www.lukebaber.com/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luke-baber-3-100/)
 
 > *Freelance: Available*
