@@ -6,10 +6,10 @@ I'm a **software engineer** and **Technical Sales Engineer at IBM** with a passi
 
 ## 🚀 Featured Project
 
-### ☁️ [Cloud Slicer](https://www.cloudslicer3d.com/) — *Creator & Lead Developer*
+### ☁️ [Cloud Slicer](https://www.cloudslicer3d.com/) — *Creator*
 > Instant quoting for 3D printing services via a simple, easy-to-use REST API.
 
-Built from the ground up, Cloud Slicer generates real-time manufacturing quotes for 3D printing. The API is built on top of the [Prusa Slicer CLI](https://github.com/prusa3d/PrusaSlicer) and is designed for speed and maximum scalability.
+Built from the ground up, Cloud Slicer generates real-time manufacturing quotes for 3D printing. The API is built on top of the [Prusa Slicer CLI](https://github.com/prusa3d/PrusaSlicer) and [Bambu Studio CLI](https://github.com/bambulab/BambuStudio) and is designed for speed and maximum scalability.
 
 **Stack:** Next.js · React · Tailwind CSS · TypeScript · Python · FastAPI
 
@@ -18,9 +18,7 @@ Built from the ground up, Cloud Slicer generates real-time manufacturing quotes 
 ---
 
 ## 🛠️ Other Projects
-
-> *(Links coming soon — stay tuned!)*
-> - [ ] Project 1
+> - [Poly Hammer](https://www.polyhammer.com/)
 > - [ ] Project 2
 > - [ ] Project 3
 
