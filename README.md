@@ -1,6 +1,6 @@
 # Hi, I'm Luke Baber 👋
 
-I'm a **Software Engineer** with a passion for building full-stack web applications and solving complex engineering problems. I hold a B.S. in Mechatronics Engineering from Texas A&M University and have hands-on experience across a diverse set of technologies — from cloud infrastructure to embedded systems.
+I'm a self taught **Software Engineer** with a passion for building full-stack web applications and solving complex engineering problems. I hold a B.S. in Mechatronics Engineering from Texas A&M University and have hands-on experience across a diverse set of technologies — from cloud infrastructure to embedded systems.
 
 ---
 
